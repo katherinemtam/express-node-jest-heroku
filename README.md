@@ -1,1 +1,1 @@
-# lab-06-express-node-jest-heroku
+# Horned Creatures (backend)
